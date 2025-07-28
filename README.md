@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi there 👋
+
+### Rust, Ethereum, & Magic: The Gathering Nerd @ [init4](https://www.github.com/init4tech)
+### Currently working on [signet.sh](https://signet.sh)
 
 <!--
 **dylanlott/dylanlott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
